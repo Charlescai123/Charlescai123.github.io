@@ -5,6 +5,9 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # `jekyll serve`. If you change this file, please restart the server process.
 
+# Building Setttings
+
+
 # Site Settings
 locale                   : "en-US"
 title                    : "Yihao Cai's Homepage"
@@ -82,7 +85,7 @@ analytics:
 author:
   name             : "Yihao (Charles) Cai"
   avatar           : "selfie-yihaocai.jpeg"
-  bio              : "Incoming PhD Student at ECE in Wayne State University"
+  bio              : "Incoming PhD Student in ECE at Wayne State University"
   location         : "Worcester, MA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -175,12 +178,18 @@ kramdown:
 
 # Collections
 collections:
+  blog:
+    output: true
   teaching:
     output: true
     permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
+  experience:
+    output: true
+  projects:
+    output: true
   portfolio:
     output: true
     permalink: /:collection/:path/

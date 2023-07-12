@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,22 +8,117 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+This is Yihao Cai, AKA Charles. I'm currently a PhD student in the Department of Electrical and Computer Engineering at [Wayne State University](https://engineering.wayne.edu/electrical-computer) (WSU). My advisor is Prof. [Yanbing Mao](https://scholar.google.com/citations?user=kN1IRpsAAAAJ&hl=en). My research direction lies primarily in Physics-AI, Cyber Physical Systems (CPS) and Robotics. My goal is to dedicate myself to the advancement of the AI field within the aim of enhancing the safety and intelligence of robots. 
 
-A data-driven personal website
+As a passionate technology enthusiast, I'm also a big fan of [Ironman](https://en.wikipedia.org/wiki/Iron_Man), and my curiosity extends to exploring various computer-related technologies, encompassing but not limited to computer systems and cybersecurity.
+
+
+News
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+------
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+<html>
+<head>
+  <title>Toggle White/Dark Mode Demo</title>
+  <style>
+    /* Styles for light mode */
+    body {
+      background-color: #ffffff;
+      color: #000000;
+    }
+    
+    /* Styles for dark mode */
+    body.dark-mode {
+      background-color: #1a1a1a;
+      color: #ffffff;
+    }
+    
+    .toggle-btn {
+      padding: 10px 20px;
+      font-size: 16px;
+    }
+  </style>
+  <script>
+    function toggleMode() {
+      var body = document.getElementsByTagName("body")[0];
+      body.classList.toggle("dark-mode");
+    }
+  </script>
+</head>
+<body>
+  <h1>Toggle White/Dark Mode Demo</h1>
+  
+  <button class="toggle-btn" onclick="toggleMode()">Toggle Mode</button>
+</body>
+</html>
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+
+<style>
+table td, table th {
+    color: var(--global-text-color);
+}
+
+.badge {
+    display: inline-block;
+    padding: 0.25em 0.4em;
+    font-size: 75%;
+    font-weight: 700;
+    line-height: 1;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    border-radius: 0.25rem;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+}
+.badge {
+    color: #fff !important;
+    border-radius: 0.125rem;
+    -webkit-box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);
+    box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16), 0 2px 10px 0 rgba(0,0,0,0.12);
+}
+
+.font-weight-bold {
+    font-weight: 700!important;
+}
+
+.text-uppercase {
+    text-transform: uppercase!important;
+}
+
+.align-middle {
+    vertical-align: middle!important;
+}
+
+.table-responsive {
+    display: block;
+    width: 100%;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+}
+</style>
+
+<ul>
+  <li> ajsdklasjldajsldkjas</li>
+</ul>
+
+<div class="table-responsive" style="max-height: 10vw"> 
+  <table class="table table-sm table-borderless"> 
+    <tbody>
+      <tr> 
+        <th scope="row"> 
+          <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 100px;"> Apr 15, 2023 </span> 
+        </th> <td> I will join MIT EECS as a Ph.D. student this fall! </td> 
+      </tr> 
+      <tr> <th scope="row"> <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 100px;"> Nov 3, 2022 </span> </th> <td> Our new work <a href="www.cs.cmu.edu/~sige/"><strong>SIGE</strong></a> has been accepted by NeurIPS 2022! Our <a href="https://github.com/lmxyy/sige" target="_blank" rel="noopener noreferrer">code</a> and benchmark are publicly available! </td> </tr> <tr> <th scope="row"> <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 100px;"> Nov 3, 2022 </span> </th> <td> <a href="https://github.com/mit-han-lab/gan-compression" target="_blank" rel="noopener noreferrer"><strong>GAN Compression</strong></a> got 1k stars in Github! </td> </tr> <tr> <th scope="row"> <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 100px;"> Mar 2, 2022 </span> </th> <td> <strong>Lite Pose</strong> has been accepted by CVPR2022! Our <a href="https://github.com/mit-han-lab/litepose" target="_blank" rel="noopener noreferrer">code</a> is publicly available! </td> </tr> <tr> <th scope="row"> 
+        <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 100px;"> Oct 26, 2021 </span> 
+      </th> 
+        <td> 
+          <strong>GAN Compression</strong> has been accepted by T-PAMI! 
+        </td> 
+      </tr>
+    </tbody>
+  </table> 
+</div>
 
 Site-wide configuration
 ------
@@ -44,6 +139,10 @@ Many people use a git client to create files on their local computer and then pu
 
 Example: editing a markdown file for a talk
 ![Editing a markdown file for a talk](/images/editing-talk.png)
+
+Hobbies
+======
+League of Legends | CS Online | Basketball | Soccer | Chinese Chess | Hacking | Sleeping~zzz
 
 For more info
 ------
