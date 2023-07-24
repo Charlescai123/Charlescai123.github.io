@@ -1,19 +1,20 @@
 ---
 layout: archive
-title: ""
+title: "Experience"
 permalink: /experience/
 author_profile: true
+title_display: false
 font_size: 16px
 ---
 
 Education
 ===
 ---
-<div style="font-size: {{ page.font_size }}; margin-right:10px">
+<div style="font-size:{{ page.font_size }}; margin-right:10px">
   <div>
     <div style="display:inline; float:left; width:25%; margin-right:10px">
       <p style="text-align:center">
-        <img src="../images/wsu-logo3.png" width="100%" style="max-width:110px" alignment="center"><br>
+        <img src="../images/logo/wsu-logo3.png" width="100%" style="max-width:110px" alignment="center"><br>
       <!-- horizon logo -->
       </p>
     </div>
@@ -30,7 +31,7 @@ Education
   <div>
     <div style="display:inline; float:left; width:25%; margin-right:10px">
       <p style="text-align:center">
-        <img src="../images/wpi-logo2.png" width="100%" style="max-width:150px" alignment="center"><br>
+        <img src="../images/logo/wpi-logo2.png" width="100%" style="max-width:150px" alignment="center"><br>
       <!-- horizon logo -->
       </p>
     </div>
@@ -47,7 +48,7 @@ Education
   <div>
     <div style="display:inline; float:left; width:25%; margin-right:10px">
       <p style="text-align:center">
-        <img src="../images/njupt-bhs-logo.png" width="100%" style="max-width:150px" alignment="center"><br>
+        <img src="../images/logo/njupt-bhs-logo.png" width="100%" style="max-width:150px" alignment="center"><br>
       <!-- horizon logo -->
       </p>
     </div>
@@ -69,7 +70,7 @@ Research
 <div style="font-size:{{ page.font_size }}">
   <div style="display:inline; float:left; width:25%; margin-right:10px">
     <p style="text-align:center">
-      <img src="../images/tum-logo.png" width="100%" style="max-width:130px" alignment="center"><br>
+      <img src="../images/logo/tum-logo.png" width="100%" style="max-width:130px" alignment="center"><br>
     <!-- horizon logo -->
     </p>
   </div>
@@ -86,7 +87,7 @@ Research
 <div style="font-size:16px">
   <div style="display:inline; float:left; width:25%; margin-right:10px">
     <p style="text-align:center">
-      <img src="../images/stanford-logo2.png" width="120%" style="max-width:170px" alignment="center"><br>
+      <img src="../images/logo/stanford-logo2.png" width="120%" style="max-width:170px" alignment="center"><br>
     <!-- horizon logo -->
     </p>
   </div>
@@ -106,7 +107,7 @@ Industry
 <div style="font-size:{{ page.font_size }}">
   <div style="display:inline; float:left; width:25%; margin-right:10px">
     <p style="text-align:center">
-      <img src="../images/ABB-logo.png" width="100%" style="max-width:150px" alignment="center"><br>
+      <img src="../images/logo/ABB-logo.png" width="100%" style="max-width:150px" alignment="center"><br>
     <!-- horizon logo -->
     </p>
   </div>
@@ -123,7 +124,7 @@ Industry
 <div style="font-size:16px">
   <div style="display:inline; float:left; width:25%; margin-right:10px">
     <p style="text-align:center">
-      <img src="../images/hn-logo.png" width="120%" style="max-width:160px; margin-top:12px" alignment="center"><br>
+      <img src="../images/logo/hn-logo.png" width="120%" style="max-width:160px; margin-top:12px" alignment="center"><br>
     <!-- horizon logo -->
     </p>
   </div>
@@ -139,7 +140,7 @@ Industry
 
 <div style="font-size:16px">
   <div style="display:inline; float:left; width:25%; margin-right:10px; text-align: center">
-    <img src="../images/whalecloud-logo.png" width="120%" style="max-width:165px; margin-top:5px" alignment="center"><br>
+    <img src="../images/logo/whalecloud-logo.png" width="120%" style="max-width:165px; margin-top:5px" alignment="center"><br>
     <!-- horizon logo -->
   </div>
   <div style="display:inline; width:80%">

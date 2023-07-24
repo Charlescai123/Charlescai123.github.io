@@ -86,7 +86,7 @@ author:
   name             : "Yihao (Charles) Cai"
   avatar           : "selfie-yihaocai.jpeg"
   bio              : "Incoming PhD Student in ECE at Wayne State University"
-  location         : "Worcester, MA"
+  location         : "Lake Forest, CA"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=Pmpu9ZMAAAAJ&hl=en"
@@ -178,7 +178,7 @@ kramdown:
 
 # Collections
 collections:
-  blog:
+  blogs:
     output: true
   teaching:
     output: true

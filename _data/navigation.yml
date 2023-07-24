@@ -30,3 +30,8 @@ main:
     
 #  - title: "Guide"
 #    url: /markdown/
+
+# projects overview links links
+# projects:
+#   - title: "IBVS-Control" 
+#     url: /projects/ibvs-control/overview

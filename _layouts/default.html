@@ -14,17 +14,20 @@ layout: compress
     {% include head/custom.html %}
   </head>
 
-  <body>
+  <body style="padding-bottom:3em;
+              color: var(--global-text-color);
+              background-color: var(--global-bg-color);">
 
     {% include browser-upgrade.html %}
     {% include masthead.html %}
 
     {{ content }}
 
-    <div class="page__footer">
+    {% comment %} <div class="page__footer"> {% endcomment %}
+    <div>
       <footer>
         {% include footer/custom.html %}
-        {% include footer.html %}
+        {% comment %} {% include footer.html %} {% endcomment %}
       </footer>
     </div>
 

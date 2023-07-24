@@ -173,6 +173,20 @@
    ========================================================================== */
 
 .greedy-nav {
+  .active {
+    margin-left: -0.5em;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    color: #fff;
+    font-weight: bold;
+    background: $primary-color;
+    border-radius: $border-radius;
+
+    &:hover {
+      color: #fff;
+    }
+  }
+
   position: relative;
   min-width: 250px;
   background: $background-color;
@@ -181,7 +195,10 @@
     display: block;
     margin: 0 1rem;
     padding: 0.5rem 0;
-    color: $masthead-link-color;
+    color: inherit;
+    //color: $default-text-light;
+    //color: $text-color;
+    //color: $masthead-link-color;
     text-decoration: none;
 
     &:hover {
