@@ -30,7 +30,6 @@ title_display: false
     <div class="overview-param">
       <b class="overview-key">Overview</b> A <b>VR-based</b> teleoperation system has been established in this project to help facilitate human experience while performing remote work. The entire framework is set up under a simulation environment <b>(Unity3D)</b> with two Kinova arms -- One arm called <b>Manipulator Arm</b> is operated by users to execute remote task; Another called <b>Camera Arm</b> is designed to provide real-time views for the users using a single camera as their perception input, which is attached to the end-effector. Shared autonomous control is achieved by applying <b>IBVS (Image-based Visual Servoing)</b> algorithm to the Camera Arm. Also, interfaces for VR device <b>(Oculus)</b> have been integrated, allowing users to get a view presence in the headset and enabling them to control the Manipulator Arm using the controller. This setup enables operators to focus solely on controlling the Manipulator Arm to perform tasks, while the Camera Arm autonomously adjusts its view in real-time, significantly reducing the user's workload.
     </div>
-
     <div class="overview-param">
       <div>
         <b class="overview-key">Summary</b>

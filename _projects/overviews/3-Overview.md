@@ -40,7 +40,7 @@ title_display: false
             <span>Utilize Unity as the intermediary for transmitting camera views and voice input for camera switching</span> 
           </li>
           <li>
-            <span>Undertake the design and execution of a user study, carefully observing and analyzing the participants' performance throughout the experiment</span> 
+            <span>Undertake the design and execution of a user study, carefully observing and analyzing the participants' behavior throughout the experiment</span> 
           </li>
         </ul>
       </div>
