@@ -60,12 +60,12 @@ title_display: false
       <div style="display:flex">
         <div class="overview-pic">
           <p style="padding:.3em">
-            <img class="fig" src="/images/Projects/1-RLTCP/BW.png" width="100%" alignment="center">
+            <img class="fig" src="/images/Projects/1-RLTCP/BW.png" width="100%" alignment="center" style="height:400px; width:500px;">
           </p>
         </div>
         <div class="overview-pic">
           <p style="padding:.3em">
-            <img class="fig" src="/images/Projects/1-RLTCP/Quene.png" width="100%" alignment="center">
+            <img class="fig" src="/images/Projects/1-RLTCP/Quene.png" width="100%" alignment="center" style="height:400px; width:500px;">
           </p>
         </div>
       </div>

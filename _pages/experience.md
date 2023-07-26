@@ -77,9 +77,9 @@ Research
   <div  style="display:inline; width:80%">
     <p style="text-align:left">
       <span><b><a href="https://www.tum.de/en/">Technical University of Munich</a></b></span><br>
-      <span><b>Sep. 2023 - Present</b></span><br>
-      <span><b>Incoming Visiting Schalor</b> | <a href="https://rtsl.cps.mw.tum.de/">Chair of Cyber-Physical Systems in Production Engineering</a></span><br>
-      <span>Quadruped Robot | Deep Reinforcement Learning | Robot Vision | Safety & Time-Critical CPS</span>
+      <span><b>Oct. 2023 - Present</b></span><br>
+      <span><b>Visiting Schalor</b> | <a href="https://rtsl.cps.mw.tum.de/">Chair of Cyber-Physical Systems in Production Engineering</a></span><br>
+      <span>Quadruped Robot | Deep Reinforcement Learning | Safety & Time-Critical CPS</span>
     </p>
   </div>
 </div>

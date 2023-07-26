@@ -76,7 +76,7 @@ table td, table th {
 <div style="padding-bottom:10px"> 
   <ul style="padding-left:20px">
     <li>
-      <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 100px;"> Jul 15, 2023 </span> 
+      <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 100px;"> Jul 24, 2023 </span> 
       <span style="padding-left:10px"> 
         I will join <b>WSU</b> ECE as a PhD student in 2023 fall semester
       </span> 

@@ -19,10 +19,10 @@ title_display: false
   </div>
   <div class="overview-content">
     <div class="overview-param">
-      <b class="overview-key">Background</b> Teleoperation has emerged as a crucial field during the Covid-19 period, playing a significant role in enabling humans to carry out complex remote tasks effectively.
+      <b class="overview-key">Background</b> Robots have consistently demonstrated their value as indispensable human assistants, with widespread applications especially in executing remote tasks. One notable example is the tele-nursing robot, which offers essential support and aid in the medical field. However, constructing a dependable tele-robotic system presents numerous challenges, with one of the biggest concerns being how to address the perception issues. Potential challenges could be <em><b>unconventional viewpoints</b></em>, <em><b>limited field of view</b></em>, and <em><b>loss of depth</b></em>. Lack of adequate visual feedback could result in a decrease in the operator's situational awareness, significantly impacting their performance.
     </div>
     <div class="overview-param">
-      <b class="overview-key">Overview</b> In this project, I implemented a framework which ultilizes Reinforcement Learning (RL) algorithm to deal with Congestion Control problem. It also benefits from the Mininet emulator to generate data and feed the RL model. To narrow down the state space, I also tried with Deep Reinforcement Learning (DRL) which restricts the congestion policy. Additionally, the testbed is designed using distributed architecture to increase the training efficiency and fully leverage the computation resources. In the experiment, a dumbbell topology network is tested and the result indicates the RL-based approach outperforms classical TCP Cubic model, which is promising.
+      <b class="overview-key">Overview</b> With the objective of creating effective interfaces to enhance visual assistance for telerobotics, I developed a physical wearable multi-camera system which includes cameras, headset and trackers. The camera transmits collected RGB views to the headset for presence as the visual feedback. Users can easily switch between different cameras according to their preferences while performing tasks. In additional, the headset is equipped with gaze tracking to capture the user's attention, and the motion trackers can record the user's body movements. By studying how subjects utilize their actions in conjunction with visual input during experiments using this system, we can facilitate the design of a powerful telerobotics platform for human-robot collaboration, and improve some aspects such as the autonomous camera view selection for perception and camera positioning for ergonomic considerations.
     </div>
     <div class="overview-param">
       <div>
@@ -31,16 +31,16 @@ title_display: false
       <div class="overview-list">
         <ul>
           <li>
-            <span>Design and implement a distributed RL-based framework to train data-based model for networking congestion control</span> 
+            <span>Design and build a multi-camera physical platform with cameras, headset and motion trackers</span> 
           </li>
           <li>
-            <span>Provide and extend the interfaces in <b>Mininet</b> virtual environment for testing different topologies</span> 
+            <span>Integrate gaze tracking in HTC VR headset and develop an algorithm for calculating the fixation time</span> 
           </li>
           <li>
-            <span>Take <b>Bandwidth</b> and <b>Router Buffer Usage</b> as the network performance metrics</span> 
+            <span>Utilize Unity as the intermediary for transmitting camera views and voice input for camera switching</span> 
           </li>
           <li>
-            <span>Deploy <b>Dumbbell</b> Topology and compare performance using RL scheme with <b>TCP Cubic</b></span> 
+            <span>Undertake the design and execution of a user study, carefully observing and analyzing the participants' performance throughout the experiment</span> 
           </li>
         </ul>
       </div>
@@ -49,13 +49,13 @@ title_display: false
       <div>
         <b class="overview-key">Result</b>
       </div>
-      <div style="padding-bottom:1em">
+      <div style="padding-bottom:1em; padding-top:1em">
         <div class="overview-pic">
           <p style="padding-bottom:.75em;">
-            <img src="/images/Projects/1-RLTCP/Dumbbell.png" width="50%" alignment="center">
+            <img src="/images/Projects/3-PAC/wearable-system.jpg" width="50%" alignment="center">
           </p>
           <p>
-            <b>Dumbbell Topology</b>
+            <b>Physical Wearable Multi-Camera System</b>
           </p>
         </div>
       </div>
