@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-This is Yihao Cai, AKA Charles. I'm currently a PhD student in the Department of Electrical and Computer Engineering at [Wayne State University](https://engineering.wayne.edu/electrical-computer) (WSU). My advisor is Prof. [Yanbing Mao](https://scholar.google.com/citations?user=kN1IRpsAAAAJ&hl=en). My research direction lies primarily in Physics-AI, Cyber Physical Systems (CPS) and Robotics. My goal is to dedicate myself to the advancement of the AI field within the aim of enhancing the safety and intelligence of robots. 
+This is Yihao Cai, AKA Charles. I'm currently a PhD student in the Department of Electrical and Computer Engineering at [Wayne State University](https://engineering.wayne.edu/electrical-computer) (WSU). My advisor is Prof. [Yanbing Mao](https://scholar.google.com/citations?user=kN1IRpsAAAAJ&hl=en). My research primarily focuses on Physics-AI, Cyber Physical Systems (CPS), AI Safety, and their applications in Robotics. My goal is to dedicate myself to the advancement of the AI field within the aim of enhancing the safety and intelligence of robots. 
 
 As a passionate technology enthusiast, I'm also a big fan of [Ironman](https://en.wikipedia.org/wiki/Iron_Man), and my curiosity extends to exploring various computer-related technologies, encompassing but not limited to computer systems and cybersecurity.
 

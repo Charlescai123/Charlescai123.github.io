@@ -58,19 +58,31 @@ title_display: false
             <b>Physical Wearable Multi-Camera System</b>
           </p>
         </div>
-      </div>
-      <div style="display:flex">
-        <div class="overview-pic">
-          <p style="padding:.3em">
-            <img class="fig" src="/images/Projects/1-RLTCP/BW.png" width="100%" alignment="center">
-          </p>
-        </div>
-        <div class="overview-pic">
-          <p style="padding:.3em">
-            <img class="fig" src="/images/Projects/1-RLTCP/Quene.png" width="100%" alignment="center">
-          </p>
-        </div>
-      </div>
+      </div>    
     </div>
+    <div class="overview-param">
+      <div>
+        <b class="overview-key">Experiment</b>
+      </div>
+      <div style="padding-bottom:2em; padding-top:1em">
+        <div class="overview-pic">
+          <p style="padding-bottom:.75em;">
+            <img class="fig" src="/images/Projects/3-PAC/PAC-Experiment.jpg" width="90%" alignment="center">
+          </p>
+          <p>
+            <b>Demo for Navigation Experiment Using Two Cameras (Tethered vs Head Camera)</b>
+          </p>
+        </div>
+      </div>
+      <div style="padding-bottom:1em">
+        <div class="overview-pic">
+          <p style="padding-bottom:.75em;">
+            <img src="/images/Projects/3-PAC/PAC-Analysis.png" width="70%" alignment="center">
+          </p>
+          <p>
+            <b>A Simple Analysis For User Performance in Pushing Task</b>
+          </p>
+        </div>
+      </div>
   </div>
 </div>

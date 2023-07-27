@@ -19,7 +19,7 @@ title_display: false
     <div class="overview-param">
       <b class="overview-key">Background</b> Teleoperation has emerged as a crucial field during the Covid-19 period, playing a significant role in enabling humans to carry out complex remote jobs effectively. Robotic arms, as one of the human-friendly tools, provide convience for the users to perform simple tasks like grasping and placing. However, this advancement has also brought some challenges including but not limited to <b><em>Perception</em></b>, <b><em>Non-haptic Feedback</em></b> and <b><em>Motion Sickness</em></b>, which has sparked the interest of researchers, leading them to explore effective solutions to provide robust control for the robot arms in remote scenarios.
     </div>
-    <div style="text-align: center">
+    <div style="text-align:center">
       <p style="margin-bottom:.5em; margin-top:.5em">
         <img src="/images/Projects/2-IBVS-Control/Teleoperation.jpeg" width="65%">
       </p>
