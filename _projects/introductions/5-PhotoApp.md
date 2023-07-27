@@ -28,7 +28,7 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
       <b>Functionalities: </b>Photo Filter, App Flow Monitor, SQL Query Security
     </div> 
     <div class="links interval" style="padding-top:5px"> 
-      <a href="https://www.cs.cmu.edu/%7Esige/" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">Overview</a> 
+      <!-- <a href="https://www.cs.cmu.edu/%7Esige/" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">Overview</a>  -->
       <a href="https://github.com/Charlescai123/PhotoApp-Frontend" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">Code</a>
       <!-- 
         <iframe src="https://ghbtns.com/github-btn.html?user=lmxyy&amp;repo=sige&amp;type=star&amp;count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe> 
