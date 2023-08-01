@@ -25,11 +25,8 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
     <em>In IWPR</em> 2020
   </div> 
   <div class="links"> 
-    <a href="https://www.cs.cmu.edu/%7Esige/" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">Website</a> 
-    <a href="https://arxiv.org/abs/2211.02048" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">PDF</a> 
-    <a href="https://www.cs.cmu.edu/%7Esige/resources/slides.key" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">Slides</a> 
-    <a href="https://youtu.be/rDPotGoPPkQ" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">Video</a> 
-    <a href="https://github.com/lmxyy/sige" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">Code</a>
+    <a href="/files/Publications/SLR.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">PDF</a> 
+    <a href="https://github.com/Charlescai123/SLR" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">Code</a>
     <!-- 
       <iframe src="https://ghbtns.com/github-btn.html?user=lmxyy&amp;repo=sige&amp;type=star&amp;count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe> 
     -->

@@ -116,7 +116,7 @@ Industry
       <span><b><a href="https://global.abb/group/en">ABB Inc</a></b></span><br>
       <span><b>Jan. 2023 - May. 2023</b></span><!-- | <span>San Jose, CA, USA</span> --><br>
       <span><b>R&D Engineer (Internship)</b> | <a href="https://new.abb.com/about/our-businesses/robotics-and-discrete-automation">Dept. of Robotics & Discrete Automation</a></span><br>
-      <span>Pick-and-Place | Deep Learning | 3D Semantic Instance Segmentation | Model Optimization</span>
+      <span>Pick-and-Place | 3D Semantic Instance Segmentation | Model Optimization</span>
     </p>
   </div>
 </div>
@@ -133,7 +133,7 @@ Industry
       <span><b><a href="https://www.hillstonenet.com">Hillstone Networks</a></b></span><br>
       <span><b>Apr. 2021 - Aug. 2021</b></span><!-- | <span>Beijing, China</span> --><br>
       <span><b>Software Engineer (Full Time)</b> | <a href="https://www.hillstonenet.com/products/cloud-protection">Dept. of Cloud Security (Cloud Armour)</a></span><br>
-      <span>Cloud Computing | Container Runtime Security | Safety Critical OS | Penetration Testing</span>
+      <span>Cloud Security | Container-OS Safety | Runtime Defense | Penetration Testing</span>
     </p>
   </div>
 </div>
@@ -148,7 +148,7 @@ Industry
       <span><b><a href="https://online.iwhalecloud.com/">Whale Cloud Technology</a></b></span><br>
       <span><b>Jul. 2020 - Mar. 2021</b></span><!-- | <span>Nanjing, Jiangsu, China</span> --><br>
       <span><b>DevOps Engineer (Full Time)</b> | <a href="https://online.iwhalecloud.com/DigitalBSS">Dept. of Internation Delivery Center (Digital BSS)</a></span><br>
-      <span>Product Delivery | CI/CD | SaaS Platform | Network Flow Analysis | Database Management</span><br><br>
+      <span>Product Delivery | CI/CD | Network Flow Analysis | Database Management</span><br><br>
     </p>
   </div>
 </div>
