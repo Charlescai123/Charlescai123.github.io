@@ -6,8 +6,8 @@ author_profile: true
 title_display: false
 ---
 
-{% for blog in site.blogs %}
+<!-- {% for blog in site.blogs %}
 <li>
     {{ blog.content }}
 </li>
-{% endfor %}
+{% endfor %}  -->

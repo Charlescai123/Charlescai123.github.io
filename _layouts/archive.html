@@ -15,12 +15,24 @@ layout: default
 <div id="main" role="main">
   {% include sidebar.html %}
 
-  <div class="archive">
-    {% unless page.title_display == false %}
-      {% unless page.header.overlay_color or page.header.overlay_image %}
-        <h1 class="page__title">{{ page.title }}</h1>
+  {% if page.title == "Projects" %}
+    <div class="archive" style="padding-left:2%; padding-right:1%">
+      {% unless page.title_display == false %}
+        {% unless page.header.overlay_color or page.header.overlay_image %}
+          <h1 class="page__title">{{ page.title }}</h1>
+        {% endunless %}
       {% endunless %}
-    {% endunless %}
-    {{ content }}
-  </div>
+      {{ content }}
+    </div>
+
+  {% else %}
+    <div class="archive">
+      {% unless page.title_display == false %}
+        {% unless page.header.overlay_color or page.header.overlay_image %}
+          <h1 class="page__title">{{ page.title }}</h1>
+        {% endunless %}
+      {% endunless %}
+      {{ content }}
+    </div>
+  {% endif %}
 </div>
