@@ -67,11 +67,11 @@ Education
 Research
 ===
 ---
+<!--
 <div style="font-size:{{ page.font_size }}">
   <div style="display:inline; float:left; width:25%; margin-right:10px">
     <p style="text-align:center">
       <img src="../images/logo/tum-logo.png" width="100%" style="max-width:130px" alignment="center"><br>
-    <!-- horizon logo -->
     </p>
   </div>
   <div  style="display:inline; width:80%">
@@ -83,6 +83,7 @@ Research
     </p>
   </div>
 </div>
+-->
 
 <div style="font-size:16px">
   <div style="display:inline; float:left; width:25%; margin-right:10px">
