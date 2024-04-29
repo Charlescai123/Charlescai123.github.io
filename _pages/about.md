@@ -78,7 +78,7 @@ table td, table th {
     <li>
       <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 100px;"> Apr 20, 2024 </span> 
       <span style="padding-left:10px"> 
-        I am going to short visit TUM and join in the teams of Prof <a href="https://rtsl.cps.mw.tum.de/personal_page/mcaccamo/"><b>Marco Caccamo</b></a> to extend our academic research on safety-critical AI system
+        I will be short visiting TUM and cooperate with Prof <a href="https://rtsl.cps.mw.tum.de/personal_page/mcaccamo/"><b>Marco Caccamo</b></a> to contribute to our ongoing academic research on safety-critical AI systems
       </span> 
     </li>
     <li>
