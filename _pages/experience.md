@@ -67,7 +67,6 @@ Education
 Research
 ===
 ---
-<!--
 <div style="font-size:{{ page.font_size }}">
   <div style="display:inline; float:left; width:25%; margin-right:10px">
     <p style="text-align:center">
@@ -77,13 +76,12 @@ Research
   <div  style="display:inline; width:80%">
     <p style="text-align:left">
       <span><b><a href="https://www.tum.de/en/">Technical University of Munich</a></b></span><br>
-      <span><b>Oct. 2023 - Present</b></span><br>
+      <span><b>Apr. 2024 - Jun. 2024</b></span><br>
       <span><b>Visiting Schalor</b> | <a href="https://rtsl.cps.mw.tum.de/">Chair of Cyber-Physical Systems in Production Engineering</a></span><br>
-      <span>Quadruped Robot | Deep Reinforcement Learning | Safety & Time-Critical CPS</span>
+      <span>Quadruped Robot | Safe Reinforcement Learning | Safety & Time-Critical CPS</span>
     </p>
   </div>
 </div>
--->
 
 <div style="font-size:16px">
   <div style="display:inline; float:left; width:25%; margin-right:10px">

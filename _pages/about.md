@@ -76,6 +76,12 @@ table td, table th {
 <div style="padding-bottom:10px"> 
   <ul style="padding-left:20px">
     <li>
+      <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 100px;"> Apr 20, 2024 </span> 
+      <span style="padding-left:10px"> 
+        I am going to short visit TUM and join in the teams of Prof <a href="https://rtsl.cps.mw.tum.de/personal_page/mcaccamo/"><b>Marco Caccamo</b></a> to extend our academic research on safety-critical AI system
+      </span> 
+    </li>
+    <li>
       <span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 100px;"> Jul 24, 2023 </span> 
       <span style="padding-left:10px"> 
         I will join <b>WSU</b> ECE as a PhD student in 2023 fall semester
