@@ -25,7 +25,7 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
     <div class="links interval" style="padding-top:5px"> 
       <a href="/projects/rbe-practicum" class="btn btn-sm z-depth-0" role="button" target="_self" rel="noopener noreferrer">Overview</a> 
       <a href="/files/Projects/Slides/RBE-Practicum.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">Slides</a> 
-      <a href="https://github.com/Charlescai123/3DSegmentation" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">Code</a>
+      <a href="https://github.com/Charlescai123/3DSegment-Pick-and-Place" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">Code</a>
       <!-- 
         <iframe src="https://ghbtns.com/github-btn.html?user=lmxyy&amp;repo=sige&amp;type=star&amp;count=true" frameborder="0" scrolling="0" width="150" height="20" title="GitHub"></iframe> 
       -->
