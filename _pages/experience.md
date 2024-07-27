@@ -77,7 +77,7 @@ Research
     <p style="text-align:left">
       <span><b><a href="https://www.tum.de/en/">Technical University of Munich</a></b></span><br>
       <span><b>Apr. 2024 - Jun. 2024</b></span><br>
-      <span><b>Visiting Schalor</b> | <a href="https://rtsl.cps.mw.tum.de/">Chair of Cyber-Physical Systems in Production Engineering</a></span><br>
+      <span><b>Visiting Schalor</b> | <a href="https://rtsl.cps.mw.tum.de/">Cyber-Physical Systems in Production Engineering</a></span><br>
       <span>Quadruped Robot | Safe Reinforcement Learning | Safety & Time-Critical CPS</span>
     </p>
   </div>
@@ -94,8 +94,8 @@ Research
     <p style="text-align:left">
       <span><b><a href="https://www.stanford.edu">Stanford University</a></b></span><br>
       <span><b>Jan. 2018 - Feb. 2018</b></span><br>
-      <span><b>Visiting Student</b> | <a href="https://ee.stanford.edu">Dept. of Electrical Engineering</a> | <a href="https://ai.stanford.edu">SAIL Lab</a></span><br>
-      <span>Machine Learning | Artifical Intelligence | Radio Frequency Identification (RFID)</span><br><br>
+      <span><b>Visiting Student</b> | <a href="https://ee.stanford.edu">Dept. of Computer Science</a> | <a href="https://ai.stanford.edu">SAIL Lab</a></span><br>
+      <span>Machine Learning | Artifical Intelligence | Computer Vision</span><br><br>
     </p>
   </div>
 </div>

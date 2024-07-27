@@ -22,7 +22,7 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
     Jianyu Wang,&nbsp;Jianxin Chen,&nbsp;and <b>Yihao Cai</b>
   </div> 
   <div class="periodical"> 
-    <em>In IWPR</em> 2020
+    <em>In Fifth International Workshop on Pattern Recognition (IWPR) 2020</em>
   </div> 
   <div class="links"> 
     <a href="/files/Publications/SLR.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">PDF</a> 
