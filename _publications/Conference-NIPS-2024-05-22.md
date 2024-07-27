@@ -14,7 +14,7 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
   <div class="title">
     <a href="https://openreview.net/forum?id=NxAYwIdxiT">
       <papertitle>
-        <b>A Framework for Multimodal Sign Language Recognition under Small Sample Based on Key-frame Sampling</b>
+        <b>Simplex-enabled Safe Continual Learning Machine</b>
       </papertitle>
     </a>
   </div> 
