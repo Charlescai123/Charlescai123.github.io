@@ -12,7 +12,6 @@ This is Yihao Cai, AKA Charles. I'm currently a PhD student in the Department of
 
 As a passionate technology enthusiast, I'm also a big fan of [Ironman](https://en.wikipedia.org/wiki/Iron_Man), and my curiosity extends to exploring various computer-related technologies, encompassing but not limited to computer systems and cybersecurity.
 
-
 News
 ======
 ------
