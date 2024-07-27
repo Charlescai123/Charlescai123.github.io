@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-This is Yihao Cai, AKA Charles. I'm currently a PhD student in the Department of Electrical and Computer Engineering at [Wayne State University](https://engineering.wayne.edu/electrical-computer) (WSU). My advisor is Prof. [Yanbing Mao](https://scholar.google.com/citations?user=kN1IRpsAAAAJ&hl=en). My research primarily focuses on Physics-AI, Cyber Physical Systems (CPS), AI Safety, and their applications in Robotics. My goal is to dedicate myself to the advancement of the AI field within the aim of enhancing the safety and intelligence of robots. 
+This is Yihao Cai, AKA Charles. I'm currently a PhD student in the Department of Electrical and Computer Engineering at [Wayne State University](https://engineering.wayne.edu/electrical-computer) (WSU). My advisor is Prof. [Yanbing Mao](https://ymao578.github.io/index.html). My research primarily focuses on <b>Physics-AI</b>, <b>Cyber Physical Systems (CPS)</b>, <b>AI Safety</b>, and their applications in Robotics. My goal is to dedicate myself to the advancement of the AI field within the aim of enhancing the safety and intelligence of robots. 
 
 Physics-AI
 ======
 ------
 
-In contrast to pure AI, Physics-AI emphasizes integrating physical knowledge with AI agents. More specifically, it could be divided into two subfields: Physics for AI and AI for Physics:
+In contrast to pure AI, Physics-AI emphasizes integrating physical knowledge with AI agents. More specifically, it could be divided into two subfields: <b>Physics for AI</b> and <b>AI for Physics</b>:
 
 <b>Physics for AI</b>: In this context, <em>Physics</em> refers to domain-specific knowledge acquired through human understanding. This knowledge can be integrated with AI to enhance performance. For instance, pre-existing models or principles can be embedded into neural networks during training to achieve faster convergence. Additionally, since data-driven approaches are susceptible to environmental changes, deploying AI models in safety-critical systems can be challenging. In such cases, incorporating established physical laws alongside AI can help ensure safety and increase reliability.
 
