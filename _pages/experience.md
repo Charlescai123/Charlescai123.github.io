@@ -94,8 +94,8 @@ Research
     <p style="text-align:left">
       <span><b><a href="https://www.stanford.edu">Stanford University</a></b></span><br>
       <span><b>Jan. 2018 - Feb. 2018</b></span><br>
-      <span><b>Visiting Student</b> | <a href="https://ee.stanford.edu">Dept. of Computer Science</a> | <a href="https://ai.stanford.edu">SAIL Lab</a></span><br>
-      <span>Machine Learning | Artifical Intelligence | Computer Vision</span><br><br>
+      <span><b>Exchange Student</b> | <a href="https://ee.stanford.edu">Dept. of Computer Science</a> | <a href="https://ai.stanford.edu">SAIL Lab</a></span><br>
+      <span>Machine Learning | Artifical Intelligence | Computer Vision | Robotics Arm</span><br><br>
     </p>
   </div>
 </div>
