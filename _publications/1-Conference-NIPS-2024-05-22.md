@@ -22,10 +22,11 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
     <b>Yihao Cai</b>,&nbsp;Hongpeng Cao,&nbsp;Yanbing Mao,&nbsp;Lui Sha,&nbsp;Marco Caccamo
   </div> 
   <div class="periodical"> 
-    <em>In Conference on Neural Information Processing Systems (NIPS) 2024</em>
+    <em>arXiv preprint</em>
   </div> 
   <div class="links"> 
     <a href="/files/Publications/neurips_2024.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">PDF</a>
-    <a href="https://github.com/Charlescai123/Simplex-Cartpole" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">Code</a>
+    <a href="https://github.com/Charlescai123/Simplex-Cartpole" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">Code1</a>
+    <a href="https://github.com/Charlescai123/Simplex-Quadruped-A1" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">Code2</a>
     </div> 
 </div>
