@@ -5,14 +5,14 @@ permalink: /publication/2024-05-22-nips
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-05-22
 venue: conference
-paperurl: 'https://openreview.net/forum?id=NxAYwIdxiT'
+paperurl: 'https://arxiv.org/abs/2409.05898'
 
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
 <div id="li2024efficient" class="col-sm-9" style="font-size:17px;">
   <div class="title">
-    <a href="https://openreview.net/forum?id=NxAYwIdxiT">
+    <a href="https://arxiv.org/abs/2409.05898">
       <papertitle>
         <b>Simplex-enabled Safe Continual Learning Machine</b>
       </papertitle>
