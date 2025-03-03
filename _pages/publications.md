@@ -33,6 +33,7 @@ Journal
 ======
 ------
 <div class='main'>
+  <ul>
   {% for pub in site.publications %}
     {% if pub.venue == "journal" %}
     <li>
@@ -40,4 +41,5 @@ Journal
     </li>
     {% endif %}
   {% endfor %}
+  </ul>
 </div>
