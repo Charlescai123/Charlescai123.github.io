@@ -35,7 +35,9 @@ Journal
 <div class='main'>
   {% for pub in site.publications %}
     {% if pub.venue == "journal" %}
+    <li>
       {{ pub.content }}
+    </li>
     {% endif %}
   {% endfor %}
 </div>
