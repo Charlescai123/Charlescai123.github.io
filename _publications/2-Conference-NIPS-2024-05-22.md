@@ -5,7 +5,7 @@ permalink: /publication/2024-05-22-nips
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2024-05-22
 venue: conference
-paperurl: 'https://arxiv.org/abs/2409.05898'
+paperurl: 'https://www.researchgate.net/publication/383918296_Simplex-enabled_Safe_Continual_Learning_Machine'
 
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
@@ -22,7 +22,7 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
     <b>Yihao Cai</b>,&nbsp;Hongpeng Cao,&nbsp;Yanbing Mao,&nbsp;Lui Sha,&nbsp;Marco Caccamo
   </div> 
   <div class="periodical"> 
-    <em>arXiv preprint</em>
+    <em>ResearchGate</em>
   </div> 
   <div class="links"> 
     <a href="/files/Publications/neurips_2024.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">PDF</a>

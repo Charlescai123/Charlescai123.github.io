@@ -12,7 +12,7 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
 
 <div id="li2024efficient" class="col-sm-9" style="font-size:17px;">
   <div class="title">
-    <a href="https://arxiv.org/abs/2409.05898">
+    <a href="">
       <papertitle>
         <b>Runtime Learning of Quadruped Robots in Wild Environments</b>
       </papertitle>
