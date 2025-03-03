@@ -22,7 +22,7 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
     &nbsp;Hongpeng Cao,&nbsp;Yanbing Mao,<b>Yihao Cai</b>,&nbsp;Lui Sha,&nbsp;Marco Caccamo
   </div> 
   <div class="periodical"> 
-    <em>arXiv preprint</em>
+    <em>ACM Transactions on Cyber-Physical Systems (On Submission)</em>
   </div> 
   <div class="links"> 
     <a href="/files/Publications/1421_Runtime_Learning_Machine.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">PDF</a>

@@ -22,7 +22,7 @@ citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 
     <b>Yihao Cai</b>,&nbsp;Yanbing Mao,&nbsp;Lui Sha,&nbsp;Hongpeng Cao,&nbsp;Marco Caccamo
   </div> 
   <div class="periodical"> 
-    <em>arXiv preprint</em>
+    <em>IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS) (On submission)</em>
   </div> 
   <div class="links"> 
     <a href="/files/Publications/IROS2025.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" rel="noopener noreferrer">PDF</a>
